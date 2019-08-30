@@ -1,7 +1,7 @@
 package Assignment2;
 /**
  COMP 3700
- Assignment 2
+ Assignment2
  Yannan Wang
  08/28/2019
  */

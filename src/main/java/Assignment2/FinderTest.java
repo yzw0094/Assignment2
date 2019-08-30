@@ -2,7 +2,7 @@ package Assignment2;
 import org.junit.Test;
 /**
  COMP 3700
- Assignment 2
+ Assignment2
  Yannan Wang
  08/28/2019
  */
